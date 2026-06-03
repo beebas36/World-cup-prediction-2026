@@ -50,7 +50,6 @@ The project includes data preprocessing, exploratory data analysis (EDA), visual
 ├── README.md
 ├── requirements.txt
 └── .gitignore
-```
 
 ## 📊 Data Analysis Process
 
